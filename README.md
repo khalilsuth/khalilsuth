@@ -6,7 +6,7 @@
 ### <div align="center">I'm Khalil, an aspiring full-stack developer 👨‍💻 on track to graduate Fall 2023!</div>  
   
 
-- 🔭 I’m currently working on Southern Automation Logistics & Technology
+- 🔭 I’m currently working @ Southern Automation Logistics & Technology
   
   
 
