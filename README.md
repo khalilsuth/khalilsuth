@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working @ Sams Club & Southern Automation Logistics & Technology<br>🌱 I’m currently learning 3D Motion Graphics<br>⚡ Fun fact: Sk8tboard enthusiast ❤️<br>
+🔭 I’m currently interning @ Southern Automation Logistics & Technology<br>🌱 I’m currently learning 3D Motion Graphics & Three.js<br>⚡ Fun fact: Sk8board & Netflix enthusiast ❤️<br>
 
 
 ## 🌐 Socials:
