@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working at Manhattan Associates<br>🌱 I’m currently learning 3D Motion Graphics & Three.js<br>⚡ Fun fact: Sk8board & Netflix enthusiast ❤️<br>
+🔭 I’m currently working at Valens Software<br>🌱 I’m currently learning 3D Motion Graphics & Three.js<br>⚡ Fun fact: Sk8board, Netflix enthusiast ❤️, Art🖼️<br>
 
 
 ## 🌐 Socials:
